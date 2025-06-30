@@ -8,9 +8,11 @@ My name is Fernando Lomeli and this page will display my enhancements in the thr
 [My Github Projects](https://github.com/FernyL?tab=repositories)
 
 ## Travlr Application
-[Original Travlr Github Files](https://github.com/FernyL/CS-465-Full-Stack-Development)
+[Original Travlr Github Files](https://github.com/FernyL/CS-465-Full-Stack-Development/tree/module7))
 
-[Milestone 2 Narrative](https://github.com/FernyL/ePortfolio/blob/main/CS%20499%20Milestone%202%20Narrative%20Lomeli.docx)
+[Enhanced Travlr Github Files](https://github.com/FernyL/CS-465-Full-Stack-Development)
+
+[Milestone 2 Narrative]()
 
 ## Mobile Inventory Application
 [Original Inventory Application Files](https://github.com/FernyL/CS-360-Mobile-Architect-and-Programming)
