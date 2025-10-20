@@ -12,3 +12,4 @@ Throughout the Computer Science program, I have delved into a number of differen
 
 The two artifacts that were chosen, the Inventory application and Travlr website, fit together as they showcased the categories of software design and engineering, algorithms and data structures, and databases. I was able to expand the complexity of the artifacts by adding a delete button to each trip in the Travlr website, a register page to the Travlr website, and a search bar to the mobile Inventory application. I showcased my skills in algorithms and data structures by creating a functional search bar to search through items in the Inventory database. I showcased my skills in working with databases and connecting to them to obtain or send data with API endpoints through deleting trips from a database, registering accounts to a database, and searching through items in the Inventory database.
   
+## [ePortfolio](https://fernyl.github.io/ePortfolio/2025/06/29/ePortfolio.html)
