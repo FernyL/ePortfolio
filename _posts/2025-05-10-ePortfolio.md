@@ -16,7 +16,7 @@ My name is Fernando Lomeli and this page will display my enhancements in the thr
 
 ## Mobile Inventory Application Enhanced
 
-<img src="https://fernyl.github.io/images/Search1.png" style="display: block; margin: auto;" />
+![Search Functionality 1](/images/Search1.png)
 
 [Original Inventory Application Files](https://github.com/FernyL/CS-360-Mobile-Architect-and-Programming)
 
