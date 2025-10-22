@@ -7,14 +7,17 @@ date: 2025-06-29
 
 My name is Fernando Lomeli and this page will display my enhancements in the three categories Software Design and Engineering, Algorithms and Data Structures, and Databases through the Travlr application and mobile Inventory application.
 
-## Travlr Application
+## Travlr Application Enhanced
 [Original Travlr Github Files](https://github.com/FernyL/CS-465-Full-Stack-Development/tree/module7)
 
 [Enhanced Travlr Github Files](https://github.com/FernyL/CS-465-Full-Stack-Development)
 
 [Milestone 2 Narrative](https://github.com/FernyL/ePortfolio/blob/main/CS%20499%20Milestone%202%20Narrative%20Lomeli.docx)
 
-## Mobile Inventory Application
+## Mobile Inventory Application Enhanced
+
+<img src="https://fernyl.github.io/images/Search1.png" style="display: block; margin: auto;" />
+
 [Original Inventory Application Files](https://github.com/FernyL/CS-360-Mobile-Architect-and-Programming)
 
 [Milestone 3 Enhancement Files](https://github.com/FernyL/ePortfolio/blob/main/FernandoLomeliInventory%202.zip)
