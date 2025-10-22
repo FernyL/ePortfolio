@@ -14,4 +14,4 @@ The two artifacts that were chosen, the Inventory application and Travlr website
   
 ## [ePortfolio](https://fernyl.github.io/ePortfolio/2025/06/29/ePortfolio.html)
 
-![Search1](/images/Search1.png)
+<!-- ![Search1](/images/Search1.png) -->
