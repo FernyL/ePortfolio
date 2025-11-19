@@ -17,6 +17,7 @@ The two artifacts that were chosen, the Inventory application and Travlr website
 
 ## TRAVLR Website
 This is a full stack web application using the MEAN stack which includes MongoDB, Express.js, AngularJS, and Node.js. This application also uses the Model, View, Controller architecture. The application displays the customer-facing side of available trips to book and an administrator single-page application (SPA) for adding, editing, or deleting trips.
+
 ![TRAVLR1](/images/TRAVLR1.png)
 
 ![TRAVLR2](/images/TRAVLR2.png)
@@ -26,10 +27,10 @@ This is an inventory mobile application that allows users to keep track of and m
 
 ![Search4](/images/Search4.png)
 
-<!-- ### Grazioso Salvare Website -->
+## Grazioso Salvare Website
 <!-- -->
-<!-- ![GraziosoSalvare1](/images/GraziosoSalvare1.png) -->
 
-<!-- ![GraziosoSalvare2](/images/GraziosoSalvare2.png) -->
+![GraziosoSalvare1](/images/GraziosoSalvare1.png)
+![GraziosoSalvare2](/images/GraziosoSalvare2.png)
   
 ## [About Me](https://fernyl.github.io/ePortfolio/2025/06/29/ePortfolio.html)
