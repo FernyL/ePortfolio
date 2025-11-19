@@ -21,14 +21,14 @@ This is a full stack web application using the MEAN stack which includes MongoDB
 
 ![TRAVLR2](/images/TRAVLR2.png)
 
-<!-- ## Inventory App -->
-<!-- ![Search1](/images/Search1.png) -->
+## Inventory App
+This is an inventory mobile application that allows users to keep track of and manage their inventory list. There is a screen to login or register an account. From there they may add, edit, or delete items from their inventory list. There is also a search bar for filtering through the list.
+![Search1](/images/Search1.png)
 
-<!-- ![Search2](/images/Search2.png) -->
-
-<!-- ![Search3](/images/Search3.png) -->
+![Search2](/images/Search2.png)    ![Search3](/images/Search3.png)
 
 <!-- ### Grazioso Salvare Website -->
+<!-- -->
 <!-- ![GraziosoSalvare1](/images/GraziosoSalvare1.png) -->
 
 <!-- ![GraziosoSalvare2](/images/GraziosoSalvare2.png) -->
