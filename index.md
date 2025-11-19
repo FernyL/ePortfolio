@@ -28,7 +28,7 @@ This is an inventory mobile application that allows users to keep track of and m
 ![Search4](/images/Search4.png)
 
 ## Grazioso Salvare Website
-<!-- -->
+This is a web application used for the "company" Grazioso Salvare to search for dogs who are candidates for search-and-rescue training. This application utilizes MongoDB, Python, and Jupyter Notebook. Radio buttons are used to filter through search-and-rescue types. This is a coursework project for SNHU students.
 
 ![GraziosoSalvare1](/images/GraziosoSalvare1.png)
 ![GraziosoSalvare2](/images/GraziosoSalvare2.png)
