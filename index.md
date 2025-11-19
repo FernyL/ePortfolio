@@ -16,11 +16,10 @@ The two artifacts that were chosen, the Inventory application and Travlr website
 * * *
 
 ## TRAVLR Website
-### TRAVLR Website
 This is a full stack web application using the MEAN stack which includes MongoDB, Express.js, AngularJS, and Node.js. This application also uses the Model, View, Controller architecture. The application displays the customer-facing side of available trips to book and an administrator single-page application (SPA) for adding, editing, or deleting trips.
 ![TRAVLR1](/images/TRAVLR1.png)
 
-<!-- ![TRAVLR2](/images/TRAVLR2.png) -->
+![TRAVLR2](/images/TRAVLR2.png)
 
 <!-- ## Inventory App -->
 <!-- ![Search1](/images/Search1.png) -->
