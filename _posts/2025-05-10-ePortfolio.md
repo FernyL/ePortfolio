@@ -7,6 +7,4 @@ My name is Fernando Lomeli and I am passionate about creating, designing, and/or
 
 [My Github Projects](https://github.com/FernyL?tab=repositories)
 
-* * *
-
-[LinkedIn](www.linkedin.com/in/fernando-lomeli-58543135b)
+[LinkedIn](https://www.linkedin.com/in/fernando-lomeli-58543135b/)
