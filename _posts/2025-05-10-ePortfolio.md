@@ -1,29 +1,10 @@
 ---
-title: "ePortfolio"
-date: 2025-06-29
+title: "About Me"
+date: 2025-09-29
 ---
+
+My name is Fernando Lomeli and I am passionate about creating, designing, and/or solving problems for programs that allow users to interact and work as efficiently as possible. I aim to maintain simplicity and visually appealing work.
 
 [My Github Projects](https://github.com/FernyL?tab=repositories)
 
-My name is Fernando Lomeli and this page will display my enhancements in the three categories Software Design and Engineering, Algorithms and Data Structures, and Databases through the Travlr application and mobile Inventory application.
-
-## Travlr Application Enhanced
-[Original Travlr Github Files](https://github.com/FernyL/CS-465-Full-Stack-Development/tree/module7)
-
-[Enhanced Travlr Github Files](https://github.com/FernyL/CS-465-Full-Stack-Development)
-
-[Milestone 2 Narrative](https://github.com/FernyL/ePortfolio/blob/main/CS%20499%20Milestone%202%20Narrative%20Lomeli.docx)
-
-## Mobile Inventory Application Enhanced
-
-![Search Functionality 1](/images/Search1.png)
-
-[Original Inventory Application Files](https://github.com/FernyL/CS-360-Mobile-Architect-and-Programming)
-
-[Milestone 3 Enhancement Files](https://github.com/FernyL/ePortfolio/blob/main/FernandoLomeliInventory%202.zip)
-
-[Milestone 3 Narrative](https://github.com/FernyL/ePortfolio/blob/main/CS%20499%20Milestone%203%20Narrative%20-%20Lomeli.docx)
-
-[Milestone 4 Enhancement Files](https://github.com/FernyL/ePortfolio/blob/main/FernandoLomeliInventorywSearch.zip)
-
-[Milestone 4 Narrative](https://github.com/FernyL/ePortfolio/blob/main/CS%20499%20Milestone%204%20Narrative%20-%20Lomeli.docx)
+[LinkedIn](www.linkedin.com/in/fernando-lomeli-58543135b)
