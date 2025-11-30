@@ -4,6 +4,8 @@ title: Welcome to Fernando Lomeli's Computer Science blog
 
 My name is Fernando Lomeli. This page will display my Professional Self-Assessment and some of my past projects showcasing Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
+## [About Me](https://fernyl.github.io/ePortfolio/2025/06/29/ePortfolio.html)
+
 * * *
 
 # Professional Self-Assessment
@@ -13,21 +15,22 @@ Throughout the Computer Science program, I have delved into a number of differen
 I showcased my skills in algorithms and data structures by creating a functional search bar to search through items in the Inventory list database. I showcased my skills in working with databases and connecting to them by obtaining or sending data through API endpoints. This was achieved by adding, editing, and deleting trips or list items from the respective databases and by creating or registering accounts to a database.
 
 # My Projects
+### [My past Github Projects](https://github.com/FernyL?tab=repositories)
 * * *
 
-## TRAVLR Website
+## [TRAVLR Website](https://github.com/FernyL/CS-465-Full-Stack-Development)
 This is a full stack web application using the MEAN stack which includes MongoDB, Express.js, AngularJS, and Node.js. This application also uses the Model, View, Controller architecture. The application displays the customer-facing side of available trips to book and an administrator single-page application (SPA) for adding, editing, or deleting trips.
 
 ![TRAVLR1](/images/TRAVLR1.png)
 
 ![TRAVLR2](/images/TRAVLR2.png)
 
-## Inventory App
+## [Inventory App](https://github.com/FernyL/CS-360-Mobile-Architect-and-Programming)
 This is an inventory mobile application that allows users to keep track of and manage their inventory list. There is a screen to login or register an account. From there they may add, edit, or delete items from their inventory list. There is also a search bar for filtering through the list.
 
 ![Search4](/images/Search4.png)
 
-## Grazioso Salvare Website
+## [Grazioso Salvare Website](https://github.com/FernyL/CS-340-Client-Server-Development)
 This is a web application used for the "company" Grazioso Salvare to search for dogs who are candidates for search-and-rescue training. This application utilizes MongoDB, Python, and Jupyter Notebook. Radio buttons are used to filter through search-and-rescue types. This is a coursework project for SNHU students.
 
 ![GraziosoSalvare1](/images/GraziosoSalvare1.png)
