@@ -12,3 +12,5 @@ You may reach out to me at FernandoLomeli96[at]hotmail.com
 [My Github Projects](https://github.com/FernyL?tab=repositories)
 
 [LinkedIn](https://www.linkedin.com/in/fernando-lomeli-58543135b)
+
+[Home](https://fernyl.github.io/ePortfolio/)
